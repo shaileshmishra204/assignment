@@ -1,0 +1,9 @@
+<div>
+  <p class="center">List of Users</p>
+  <app-child1 *ngIf="parentData" [data]="parentData" (passed)="passedData($event)" >
+</app-child1>
+<hr>
+<p class="center">Albums</p>
+<app-child2 *ngIf="child2Data" [d]="child2Data" >
+  </app-child2>
+</div>

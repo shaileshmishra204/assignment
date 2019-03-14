@@ -1,0 +1,145 @@
+{
+    "users": [{
+            "id": "1",
+            "firstName": "Shailesh",
+            "lastName": "Mishra"
+        },
+        {
+            "id": "2",
+            "firstName": "Amit",
+            "lastName": "Verma"
+        },
+        {
+            "id": "3",
+            "firstName": "Vivek",
+            "lastName": ""
+        },
+
+        {
+            "id": "4",
+            "firstName": "Sumit",
+            "lastName": "Kumar"
+        },
+
+        {
+            "id": "5",
+            "firstName": "Neha",
+            "lastName": "Gupta"
+        },
+
+        {
+            "id": "5",
+            "firstName": "Shalini",
+            "lastName": "Mishra"
+        }
+
+
+    ],
+    "albums": [{
+            "id": "1",
+            "userID": "1",
+            "name": "Birthday pic"
+            
+
+        },
+        {
+            "id": "2",
+            "userID": "1",
+            "name": "Party pic"
+
+        }, {
+            "id": "3",
+            "userID": "1",
+            "name": "Birthday pic"
+
+        },
+        {
+            "id": "4",
+            "userID": "2",
+            "name": "Dance pic"
+
+        }, {
+            "id": "5",
+            "userID": "3",
+            "name": "Merriage pic"
+
+        }, {
+            "id": "6",
+            "userID": "4",
+            "name": "Tour pic"
+
+        },
+        {
+            "id": "7",
+            "userID": "5",
+            "name": "Farewell pic"
+
+        }
+
+    ],
+    "photos":[
+        {
+            "id":"1",
+            "name":"pic1.jpeg",
+            "url":"http://www.apimages.com/Images/aptopix031319_tcm37-15499.jpg",
+            "albumId":1
+        },
+        {
+            "id":"2",
+            "name":"pic2.jpeg",
+            "url":"http://www.apimages.com/Images/TIHMarchT1.jpg",
+            "albumId":3
+        },
+        {
+            "id":"3",
+            "name":"pic3.jpeg",
+            "url":"http://binaryapi.ap.org/27e56a8ae4ce4052a8665867d4bf1361/preview.jpg?wm=api",
+            "albumId":4
+        
+        },
+        {
+            "id":"4",
+            "name":"pic4.jpeg",
+            "url":"http://www.apimages.com/Images/TIHMarchT1.jpg",
+            "albumId":2
+        },
+        {
+            "id":"5",
+            "name":"pic5.jpeg",
+            "url":"http://www.apimages.com/Images/aptopix031319_tcm37-15499.jpg",
+            "albumId":5
+        },
+        {
+            "id":"6",
+            "name":"pic6.jpeg",
+            "url":"http://www.apimages.com/Images/TIHMarchT1.jpg",
+            "albumId":7
+        },
+        {
+            "id":"7",
+            "name":"pic8.jpeg"
+            ,
+            "url":"http://www.apimages.com/Images/aptopix031319_tcm37-15499.jpg",
+            "albumId":8
+        },
+        {
+            "id":"8",
+            "name":"pic9.jpeg",
+            "url":"http://binaryapi.ap.org/27e56a8ae4ce4052a8665867d4bf1361/preview.jpg?wm=api",
+            "albumId":9
+        },
+        {
+            "id":"9",
+            "name":"pic7.jpeg",
+            "url":"http://www.apimages.com/Images/aptopix031319_tcm37-15499.jpg",
+            "albumId":10
+        },
+        {
+            "id":"10",
+            "name":"pic9.jpeg",
+            "url":"http://binaryapi.ap.org/27e56a8ae4ce4052a8665867d4bf1361/preview.jpg?wm=api",
+            "albumId":6
+        }
+    ]
+
+}
